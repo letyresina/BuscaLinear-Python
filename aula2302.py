@@ -31,6 +31,6 @@ print(f"Concatenando listas: {listaConcatenada}")
 numeros = list(range(1,11))
 print(numeros)
 
-print(f"Números de 1 a 6: {numeros[2:6]}")
+#print(f"Números de 1 a 6: {numeros[2:6]}")
 
-print(f"Números do primeiro ao quinto, saltando de 2 em 2: {numeros[:5:2]}")
+#print(f"Números do primeiro ao quinto, saltando de 2 em 2: {numeros[:5:2]}")
